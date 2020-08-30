@@ -13,4 +13,8 @@ h1 {
       -ms-flex-pack: center;
           justify-content: center;
 }
+
+p {
+  font-size: 40px;
+}
 /*# sourceMappingURL=main.css.map */
